@@ -15,6 +15,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffd343?style=flat-square&logo=Python&logoColor=black" />
 </p>
 <br>
 <img alt="Waka Time" src="https://wakatime.com/badge/user/ce3d184e-b7a6-4226-b492-700d7ceb5653.svg" alt="Total time coded since May 27 2021" />
