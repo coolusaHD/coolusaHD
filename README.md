@@ -17,6 +17,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <br>
+<img alt="Waka Time" src="https://wakatime.com/badge/user/ce3d184e-b7a6-4226-b492-700d7ceb5653.svg" alt="Total time coded since May 27 2021" />
+<br>
 
 ---------------------------------------------------------------------------------------------------------
 
