@@ -1,7 +1,7 @@
 # Hey there 👋 
 
 <p>Welcome to my github page <br /> I'm Philipp, Fullstack developer from Germany, currently studying CS at the University of Tuebingen.</p>
-<p>Besides my studies I work at @itdesign as a working student</p>
+<p>Besides my studies I work at @itdesign as a working student (see @itd-pal)</p>
 <br>
 
 ---------------------------------------------------------------------------------------------------------
@@ -10,6 +10,7 @@
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-212121?style=flat-square&logo=react&logoColor=6ad4f1" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=Javascript&logoColor=000000" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2f74c0?style=flat-square&logo=Typescript&logoColor=ffffff" />	
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
@@ -18,6 +19,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffd343?style=flat-square&logo=Python&logoColor=black" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-ed842c?style=flat-square&logo=Kotlin&logoColor=white" />
+	
 </p>
 <br>
 <img alt="Waka Time" src="https://wakatime.com/badge/user/ce3d184e-b7a6-4226-b492-700d7ceb5653.svg" alt="Total time coded since May 27 2021" />
