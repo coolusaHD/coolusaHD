@@ -60,7 +60,5 @@
   </tbody>
 </table>
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
