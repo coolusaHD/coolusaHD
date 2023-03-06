@@ -56,13 +56,6 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coolusaHD/portfolio?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/coolusaHD/portfolio?style=flat-square&labelColor=343b41"/></td>
     </tr>
-  	<tr>
-      <td><a href="https://github.com/coolusaHD/RHConnect"><b>RHConnect</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/coolusaHD/RHConnect?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/coolusaHD/RHConnect?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/coolusaHD/RHConnect?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/coolusaHD/RHConnect?style=flat-square&labelColor=343b41"/></td>
-    </tr>
 	
   </tbody>
 </table>
