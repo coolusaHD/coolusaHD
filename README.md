@@ -1,7 +1,6 @@
 # Hey there 👋 
 
 <p>Welcome to my github page <br /> I'm Philipp, Fullstack developer from Germany, currently studying CS at the University of Tuebingen.</p>
-<p>Besides my studies I work at @itdesign as a working student (see @itd-pal)</p>
 <br>
 
 ---------------------------------------------------------------------------------------------------------
